@@ -7,8 +7,8 @@ Aplicação para controle e análise de usuários registrados desenvolvido com R
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/username/repo-backend.git
-   cd repo-backend
+   git clone https://github.com/RennanJSM/User-Management.git
+   cd User-Management
 
 ## Back-end
 
